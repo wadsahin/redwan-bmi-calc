@@ -60,7 +60,7 @@ button:hover {
 .copyright {
     position: absolute;
     bottom: 10px;
-    right: 10px;
+    text-align: center;
     background: rgba(255, 255, 255, 0.8);
     padding: 5px 10px;
     border-radius: 5px;
